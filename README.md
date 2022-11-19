@@ -9,7 +9,6 @@ SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Te
 
 ## Analizde Kullandığım Kütüphanler
 * Pandas
-* Seaborn 
 * Numpy 
 * Missingno 
 * Matplotlib.
