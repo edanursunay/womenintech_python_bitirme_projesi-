@@ -1,4 +1,4 @@
-# Womenintech Python Bitirme Projesi
+# Women in Tech Python Bitirme Projesi
 ![gif](https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif)
 
 Herkese merhaba!
@@ -7,7 +7,14 @@ SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Te
 
 Bu Projede Covid 19 veri setiyle çalıştım ve analizler yaptım.
 
-# Yapılacak Analizler
+## Analizde Kullandığım Kütüphanler
+* pandas
+* seaborn 
+* numpy 
+* missingno 
+* matplotlib.
+
+## Yapılacak Analizler
 1. Ülkelere göre günlük vaka sayısı.
 2. Ülkelere göre ortalama vaka sayısı.
 3. Ülkelere göre toplam aşılama sayısı.
