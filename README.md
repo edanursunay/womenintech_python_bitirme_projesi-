@@ -5,14 +5,14 @@ Herkese merhaba!
 
 SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimleriyle güçlendirerek sektörde iş gücüne katılımını hedefliyor. Projeyle ilgili daha fazla bilgiye https://sisterslab.co/women-in-tech-academy/ adresinden ulaşabilirsiniz.
 
-Bu Projede Covid 19 veri setiyle çalıştım ve analizler yaptım.
+**Bu Projede Covid 19 veri setiyle çalıştım ve analizler yaptım.**
 
 ## Analizde Kullandığım Kütüphanler
-* pandas
-* seaborn 
-* numpy 
-* missingno 
-* matplotlib.
+* Pandas
+* Seaborn 
+* Numpy 
+* Missingno 
+* Matplotlib.
 
 ## Yapılacak Analizler
 1. Ülkelere göre günlük vaka sayısı.
