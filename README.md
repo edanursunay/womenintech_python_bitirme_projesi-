@@ -1,5 +1,6 @@
 # Womenintech Python Bitirme Projesi
 ![gif](https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif)
+
 Herkese merhaba!
 
 SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimleriyle güçlendirerek sektörde iş gücüne katılımını hedefliyor. Projeyle ilgili daha fazla bilgiye https://sisterslab.co/women-in-tech-academy/ adresinden ulaşabilirsiniz.
